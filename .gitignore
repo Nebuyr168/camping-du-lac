@@ -1,0 +1,8 @@
+# Fichiers internes (ne pas publier)
+/tasks/
+/conversation.md
+/home_raw.html
+/photos/site-existant/
+*.log
+Thumbs.db
+.DS_Store
